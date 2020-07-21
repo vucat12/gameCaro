@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\gameCaro\gameCaro\bin\Release\gameCaro.exe.config
+C:\Users\ACER\source\repos\gameCaro\gameCaro\bin\Release\gameCaro.exe
+C:\Users\ACER\source\repos\gameCaro\gameCaro\bin\Release\gameCaro.pdb
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.Form1.resources
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.Properties.Resources.resources
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.exe
+C:\Users\ACER\source\repos\gameCaro\gameCaro\obj\Release\gameCaro.pdb
